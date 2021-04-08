@@ -29,6 +29,6 @@ If you have any question, ask me. You will find my contact going to my github pr
 
 ## Bugs
 
-The classification is not too good yet. I dont know why, but hope soon I find why.
-Currently the traduction is working just from english to portuguese.
+- The classification is not too good yet. I dont know why, but hope soon I find why.
+- Currently the traduction is working just from english to portuguese.
 
