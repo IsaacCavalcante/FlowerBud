@@ -1,10 +1,10 @@
 # FlowerBud
 
-This project is a experiment of CoreML use. I follow the section 24 classes of App Brewary iOS course: https://www.udemy.com/course/ios-13-app-development-bootcamp/
-This projet use CoreML to classify a flower photo and search from Wikipedia API a brief text about recognized flower
-This is the original model used https://drive.google.com/uc?export=download&id=13v58uJqi_pAXKoBa2J7mZ7sLkaSRVUBb named oxford102.coffemodel
-Oxford102.coffemodel was parsed by CoreML model using coremltools (https://pypi.org/project/coremltools/)
-I made just a small modification using MLKitTranslate to translate from english to portuguse wekepidia texts
+- This project is a experiment of CoreML use. I follow the section 24 classes of App Brewary iOS course: https://www.udemy.com/course/ios-13-app-development-bootcamp/
+- This projet use CoreML to classify a flower photo and search from Wikipedia API a brief text about recognized flower
+- This is the original model used https://drive.google.com/uc?export=download&id=13v58uJqi_pAXKoBa2J7mZ7sLkaSRVUBb named oxford102.coffemodel
+- Oxford102.coffemodel was parsed by CoreML model using coremltools (https://pypi.org/project/coremltools/)
+- I made just a small modification using MLKitTranslate to translate from english to portuguse wekepidia texts
 
 ## Installation
 
